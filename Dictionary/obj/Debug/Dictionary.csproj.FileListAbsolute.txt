@@ -1,0 +1,16 @@
+H:\Documents\Dictionary\bin\Debug\Database1.mdf
+H:\Documents\Dictionary\bin\Debug\Database1_log.ldf
+H:\Documents\Dictionary\bin\Debug\Dictionary.exe.config
+H:\Documents\Dictionary\bin\Debug\Dictionary.exe
+H:\Documents\Dictionary\bin\Debug\Dictionary.pdb
+H:\Documents\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+H:\Documents\Dictionary\obj\Debug\Dictionary.Add.resources
+H:\Documents\Dictionary\obj\Debug\Dictionary.Form1.resources
+H:\Documents\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+H:\Documents\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.cache
+H:\Documents\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+H:\Documents\Dictionary\obj\Debug\Dictionary.exe
+H:\Documents\Dictionary\obj\Debug\Dictionary.pdb
+H:\Documents\Dictionary\obj\Debug\Interop.MediaPlayer.dll
+H:\Documents\Dictionary\obj\Debug\Interop.WMPLib.dll
+H:\Documents\Dictionary\obj\Debug\Dictionary.csproj.ResolveComReference.cache
